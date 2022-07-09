@@ -1,0 +1,5 @@
+1.Unicast adalah pengiriman data one to one
+2.Multicast adalah pengiriman data satu ke pilihan lainnya (bisa 2 atau lebih)
+3.T568B
+4.RJ-11
+5.RP-TNC
